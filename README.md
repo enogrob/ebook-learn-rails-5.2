@@ -28,19 +28,38 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Arrays and Hashes
 [x] Range
 02. First Steps with Rails
-[ ] Environment (Development)
-[ ] SQLite3 Database
-[ ] Why Is It All in English?
-[ ] Static Content (HTML and Graphics Files)
-[ ] Creating HTML Dynamically with erb
-[ ] The Rails Console
-[ ] What Is a Generator?  
-[ ] Helper
-[ ] Debugging
-[ ] Rails Lingo
-[ ] Model View Controller Architecture
-[ ] Abbreviations
+[x] Environment (Development)
+[x] SQLite3 Database
+[x] Why Is It All in English?
+[x] Static Content (HTML and Graphics Files)
+[x] Creating HTML Dynamically with erb
+[x] The Rails Console
+[x] What Is a Generator?  
+[x] Helper
+[x] Debugging
+[x] Rails Lingo
+[x] Model View Controller Architecture
+[x] Abbreviations
 03. ActiveRecord
+[ ] Creating a Database/Model
+[ ] Adding Records
+[ ] first, last, and all
+[ ] Populating the Database with seeds.rb
+[ ] Searching and Finding with Queries
+[ ] Calculations
+[ ] SQL EXPLAIN
+[ ] Batches
+[ ] Editing a Record
+[ ] has_many Association
+[ ] Many-to-Many, an n:n Association
+[ ] Polymorphic Associations
+[ ] Deleting/Destroying a Record
+[ ] Transactions
+[ ] Scopes
+[ ] Validation
+[ ] Migrations
+[ ] Callbacks
+[ ] Default Values 
 04. Scaffolding and REST
 05. Routes
 06. Bundler and Gems
