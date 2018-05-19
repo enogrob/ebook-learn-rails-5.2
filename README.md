@@ -41,15 +41,15 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Model View Controller Architecture
 [x] Abbreviations
 03. ActiveRecord
-[ ] Creating a Database/Model
-[ ] Adding Records
-[ ] first, last, and all
-[ ] Populating the Database with seeds.rb
-[ ] Searching and Finding with Queries
-[ ] Calculations
-[ ] SQL EXPLAIN
-[ ] Batches
-[ ] Editing a Record
+[x] Creating a Database/Model
+[x] Adding Records
+[x] first, last, and all
+[x] Populating the Database with seeds.rb
+[x] Searching and Finding with Queries
+[x] Calculations
+[x] SQL EXPLAIN
+[x] Batches
+[x] Editing a Record
 [ ] has_many Association
 [ ] Many-to-Many, an n:n Association
 [ ] Polymorphic Associations
@@ -59,7 +59,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [ ] Validation
 [ ] Migrations
 [ ] Callbacks
-[ ] Default Values 
+[ ] Default Values
 04. Scaffolding and REST
 05. Routes
 06. Bundler and Gems
