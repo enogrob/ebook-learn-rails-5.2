@@ -3,9 +3,13 @@
 one:
   name: MyString
   price: 9.99
-  lock_version: 1
+  weight: 1
+  in_stock: false
+  expiration_date: 2018-05-21
 
 two:
   name: MyString
   price: 9.99
-  lock_version: 1
+  weight: 1
+  in_stock: false
+  expiration_date: 2018-05-21

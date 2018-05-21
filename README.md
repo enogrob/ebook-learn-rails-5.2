@@ -50,28 +50,91 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] SQL EXPLAIN
 [x] Batches
 [x] Editing a Record
-[ ] has_many Association
-[ ] Many-to-Many, an n:n Association
-[ ] Polymorphic Associations
-[ ] Deleting/Destroying a Record
-[ ] Transactions
-[ ] Scopes
+[x] has_many Association
+[x] Many-to-Many, an n:n Association
+[x] Polymorphic Associations
+[x] Deleting/Destroying a Record
+[x] Transactions
+[x] Scopes
 [ ] Validation
 [ ] Migrations
 [ ] Callbacks
 [ ] Default Values
 04. Scaffolding and REST
+[ ] Redirects and Flash Messages
+[ ] Generating a Scaffold
+[ ] When Should you use Scaffolding?
 05. Routes
+[ ] HTTP GET Requests for Singular Resources
+[ ] root:to => "welcome#index"
+[ ] resources
+[ ] Further Information on Routes
 06. Bundler and Gems
+[ ] bundle update
+[ ] bundle outdated
+[ ] bundle exec
+[ ] binstubs
+[ ] Popular Gems
+[ ] Further Information on Bundler
 07. Forms
+[ ] The Data-Input Workflow
+[ ] Generic Forms
+[ ] FormTagHelper
+[ ] Alternatives
 08. Cookies and Sessions
+[ ] Cookies
+[ ] Sessions
 09. Tests
+[ ] Example for a User in a Web Shop
+[ ] Fixtures
+[ ] Integration Tests
+[ ] rails stats
+[ ] More on Testing
 10. Active Job
+[ ] Create a New Job
+[ ] Set the Time for Future Execution
+[ ] Configure the Job Server Back End
 11. Action Mailer
+[ ] Configuring the E-mail Server
+[ ] Custom X-Header
+[ ] Attachments
+[ ] Further information
 12. Internationalization
+[ ] I18n.t
+[ ] Localized Views
+[ ] A Rails Application in Only One Language
+[ ] Paths in German
+[ ] Multilingual Rails Applications
+[ ] Using I18n.locate for Defining the Default Language
+[ ] Multilingual Scaffold Example
+[ ] Further information
 13. Asset Pipeline
+[ ] application.js
+[ ] application.css
+[ ] rails assets:precompile
+[ ] The Fingerprint
+[ ] Conding Links to a Asset
+[ ] Coding a Link to a image
+[ ] Coding a Link to a JavaScript File
+[ ] Coding a Link to a CSS File
+[ ] Defaults in application.html.erb
 14. Caching
+[ ] The Example Application
+[ ] HTTP Caching
+[ ] Fragment Caching
+[ ] Page Caching
+[ ] Preheating
+[ ] Further information
 15. Action Cable
+[ ] Hello World Action Cable Example
 16. Credentials
+[ ] Setup
+[ ] Editing Credentials
+[ ] Accessing a Key
+[ ] Using the Credentials on the Production Web Server
 17. Active Storage
+[ ] Avatar Example
+Appendix A:Ruby on Rails Installation
+Appendix B:Web Server in Production Mode
+Appendix C:Futher Rails Reading Material
 ```

@@ -10,12 +10,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_05_19_131815) do
+ActiveRecord::Schema.define(version: 2018_05_21_125242) do
 
   create_table "products", force: :cascade do |t|
     t.string "name"
-    t.decimal "price", precision: 8, scale: 2
-    t.integer "lock_version"
+    t.decimal "price", precision: 7, scale: 2
+    t.integer "weight"
+    t.boolean "in_stock"
+    t.date "expiration_date"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
