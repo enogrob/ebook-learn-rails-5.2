@@ -56,10 +56,10 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Deleting/Destroying a Record
 [x] Transactions
 [x] Scopes
-[ ] Validation
-[ ] Migrations
-[ ] Callbacks
-[ ] Default Values
+[x] Validation
+[x] Migrations
+[x] Callbacks
+[x] Default Values
 04. Scaffolding and REST
 [ ] Redirects and Flash Messages
 [ ] Generating a Scaffold

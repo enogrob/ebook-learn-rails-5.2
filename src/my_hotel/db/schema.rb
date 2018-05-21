@@ -10,18 +10,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_05_21_213627) do
+ActiveRecord::Schema.define(version: 2018_05_21_191201) do
 
-  create_table "orders", force: :cascade do |t|
-    t.integer "product_id"
-    t.integer "quantity"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  create_table "users", force: :cascade do |t|
-    t.string "email"
-    t.string "login"
+  create_table "reservations", force: :cascade do |t|
+    t.date "start_date"
+    t.date "end_date"
+    t.string "room_type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
