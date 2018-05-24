@@ -1,6 +1,6 @@
 class GameController < ApplicationController
   def ping
-    @foo = 3
+    redirect_to game_pong_path, notice: 'Ping-Pong!'
   end
 
   def pong

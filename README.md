@@ -61,9 +61,9 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Callbacks
 [x] Default Values
 04. Scaffolding and REST
-[ ] Redirects and Flash Messages
-[ ] Generating a Scaffold
-[ ] When Should you use Scaffolding?
+[x] Redirects and Flash Messages
+[x] Generating a Scaffold
+[x] When Should you use Scaffolding?
 05. Routes
 [ ] HTTP GET Requests for Singular Resources
 [ ] root:to => "welcome#index"
