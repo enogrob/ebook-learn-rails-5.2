@@ -67,8 +67,8 @@ Learn everything you need to about the subject of this `eBook` project.
 05. Routes
 [x] HTTP GET Requests for Singular Resources
 [x] root:to => "welcome#index"
-[ ] resources
-[ ] Further Information on Routes
+[x] resources
+[x] Further Information on Routes
 06. Bundler and Gems
 [ ] bundle update
 [ ] bundle outdated
