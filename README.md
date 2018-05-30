@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-project/master)
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
@@ -34,7 +34,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Static Content (HTML and Graphics Files)
 [x] Creating HTML Dynamically with erb
 [x] The Rails Console
-[x] What Is a Generator?  
+[x] What Is a Generator?
 [x] Helper
 [x] Debugging
 [x] Rails Lingo
@@ -65,8 +65,8 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Generating a Scaffold
 [x] When Should you use Scaffolding?
 05. Routes
-[ ] HTTP GET Requests for Singular Resources
-[ ] root:to => "welcome#index"
+[x] HTTP GET Requests for Singular Resources
+[x] root:to => "welcome#index"
 [ ] resources
 [ ] Further Information on Routes
 06. Bundler and Gems
