@@ -70,12 +70,12 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] resources
 [x] Further Information on Routes
 06. Bundler and Gems
-[ ] bundle update
-[ ] bundle outdated
-[ ] bundle exec
-[ ] binstubs
-[ ] Popular Gems
-[ ] Further Information on Bundler
+[x] bundle update
+[x] bundle outdated
+[x] bundle exec
+[x] binstubs
+[x] Popular Gems
+[x] Further Information on Bundler
 07. Forms
 [ ] The Data-Input Workflow
 [ ] Generic Forms
