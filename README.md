@@ -77,10 +77,10 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Popular Gems
 [x] Further Information on Bundler
 07. Forms
-[ ] The Data-Input Workflow
-[ ] Generic Forms
-[ ] FormTagHelper
-[ ] Alternatives
+[x] The Data-Input Workflow
+[x] Generic Forms
+[x] FormTagHelper
+[x] Alternatives
 08. Cookies and Sessions
 [ ] Cookies
 [ ] Sessions
