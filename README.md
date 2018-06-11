@@ -82,8 +82,8 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] FormTagHelper
 [x] Alternatives
 08. Cookies and Sessions
-[ ] Cookies
-[ ] Sessions
+[x] Cookies
+[x] Sessions
 09. Tests
 [ ] Example for a User in a Web Shop
 [ ] Fixtures
