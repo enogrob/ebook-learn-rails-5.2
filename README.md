@@ -91,9 +91,9 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] rails stats
 [x] More on Testing
 10. Active Job
-[ ] Create a New Job
-[ ] Set the Time for Future Execution
-[ ] Configure the Job Server Back End
+[x] Create a New Job
+[x] Set the Time for Future Execution
+[x] Configure the Job Server Back End
 11. Action Mailer
 [ ] Configuring the E-mail Server
 [ ] Custom X-Header
