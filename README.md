@@ -95,10 +95,10 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Set the Time for Future Execution
 [x] Configure the Job Server Back End
 11. Action Mailer
-[ ] Configuring the E-mail Server
-[ ] Custom X-Header
-[ ] Attachments
-[ ] Further information
+[x] Configuring the E-mail Server
+[x] Custom X-Header
+[x] Attachments
+[x] Further information
 12. Internationalization
 [ ] I18n.t
 [ ] Localized Views
