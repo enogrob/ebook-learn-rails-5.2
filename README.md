@@ -128,10 +128,10 @@ Learn everything you need to about the subject of this `eBook` project.
 15. Action Cable
 [ ] Hello World Action Cable Example
 16. Credentials
-[ ] Setup
-[ ] Editing Credentials
-[ ] Accessing a Key
-[ ] Using the Credentials on the Production Web Server
+[x] Setup
+[x] Editing Credentials
+[x] Accessing a Key
+[x] Using the Credentials on the Production Web Server
 17. Active Storage
 [ ] Avatar Example
 Appendix A:Ruby on Rails Installation
