@@ -109,15 +109,15 @@ Learn everything you need to about the subject of this `eBook` project.
 [ ] Multilingual Scaffold Example
 [ ] Further information
 13. Asset Pipeline
-[ ] application.js
-[ ] application.css
-[ ] rails assets:precompile
-[ ] The Fingerprint
-[ ] Conding Links to a Asset
-[ ] Coding a Link to a image
-[ ] Coding a Link to a JavaScript File
-[ ] Coding a Link to a CSS File
-[ ] Defaults in application.html.erb
+[x] application.js
+[x] application.css
+[x] rails assets:precompile
+[x] The Fingerprint
+[x] Conding Links to a Asset
+[x] Coding a Link to a image
+[x] Coding a Link to a JavaScript File
+[x] Coding a Link to a CSS File
+[x] Defaults in application.html.erb
 14. Caching
 [ ] The Example Application
 [ ] HTTP Caching
