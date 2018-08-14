@@ -54,51 +54,51 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Many-to-Many, an n:n Association
 [x] Polymorphic Associations
 [x] Deleting/Destroying a Record
-[x] Transactions
-[x] Scopes
-[x] Validation
-[x] Migrations
-[x] Callbacks
-[x] Default Values
+[ ] Transactions
+[ ] Scopes
+[ ] Validation
+[ ] Migrations
+[ ] Callbacks
+[ ] Default Values
 04. Scaffolding and REST
-[x] Redirects and Flash Messages
-[x] Generating a Scaffold
-[x] When Should you use Scaffolding?
+[ ] Redirects and Flash Messages
+[ ] Generating a Scaffold
+[ ] When Should you use Scaffolding?
 05. Routes
-[x] HTTP GET Requests for Singular Resources
-[x] root:to => "welcome#index"
-[x] resources
-[x] Further Information on Routes
+[ ] HTTP GET Requests for Singular Resources
+[ ] root:to => "welcome#index"
+[ ] resources
+[ ] Further Information on Routes
 06. Bundler and Gems
-[x] bundle update
-[x] bundle outdated
-[x] bundle exec
-[x] binstubs
-[x] Popular Gems
-[x] Further Information on Bundler
+[ ] bundle update
+[ ] bundle outdated
+[ ] bundle exec
+[ ] binstubs
+[ ] Popular Gems
+[ ] Further Information on Bundler
 07. Forms
-[x] The Data-Input Workflow
-[x] Generic Forms
-[x] FormTagHelper
-[x] Alternatives
+[ ] The Data-Input Workflow
+[ ] Generic Forms
+[ ] FormTagHelper
+[ ] Alternatives
 08. Cookies and Sessions
-[x] Cookies
-[x] Sessions
+[ ] Cookies
+[ ] Sessions
 09. Tests
-[x] Example for a User in a Web Shop
-[x] Fixtures
-[x] Integration Tests
-[x] rails stats
-[x] More on Testing
+[ ] Example for a User in a Web Shop
+[ ] Fixtures
+[ ] Integration Tests
+[ ] rails stats
+[ ] More on Testing
 10. Active Job
-[x] Create a New Job
-[x] Set the Time for Future Execution
-[x] Configure the Job Server Back End
+[ ] Create a New Job
+[ ] Set the Time for Future Execution
+[ ] Configure the Job Server Back End
 11. Action Mailer
-[x] Configuring the E-mail Server
-[x] Custom X-Header
-[x] Attachments
-[x] Further information
+[ ] Configuring the E-mail Server
+[ ] Custom X-Header
+[ ] Attachments
+[ ] Further information
 12. Internationalization
 [ ] I18n.t
 [ ] Localized Views
@@ -109,15 +109,15 @@ Learn everything you need to about the subject of this `eBook` project.
 [ ] Multilingual Scaffold Example
 [ ] Further information
 13. Asset Pipeline
-[x] application.js
-[x] application.css
-[x] rails assets:precompile
-[x] The Fingerprint
-[x] Conding Links to a Asset
-[x] Coding a Link to a image
-[x] Coding a Link to a JavaScript File
-[x] Coding a Link to a CSS File
-[x] Defaults in application.html.erb
+[ ] application.js
+[ ] application.css
+[ ] rails assets:precompile
+[ ] The Fingerprint
+[ ] Conding Links to a Asset
+[ ] Coding a Link to a image
+[ ] Coding a Link to a JavaScript File
+[ ] Coding a Link to a CSS File
+[ ] Defaults in application.html.erb
 14. Caching
 [ ] The Example Application
 [ ] HTTP Caching
@@ -128,10 +128,10 @@ Learn everything you need to about the subject of this `eBook` project.
 15. Action Cable
 [ ] Hello World Action Cable Example
 16. Credentials
-[x] Setup
-[x] Editing Credentials
-[x] Accessing a Key
-[x] Using the Credentials on the Production Web Server
+[ ] Setup
+[ ] Editing Credentials
+[ ] Accessing a Key
+[ ] Using the Credentials on the Production Web Server
 17. Active Storage
 [ ] Avatar Example
 Appendix A:Ruby on Rails Installation
