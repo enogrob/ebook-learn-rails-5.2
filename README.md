@@ -54,9 +54,9 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Many-to-Many, an n:n Association
 [x] Polymorphic Associations
 [x] Deleting/Destroying a Record
-[ ] Transactions
-[ ] Scopes
-[ ] Validation
+[x] Transactions
+[x] Scopes
+[~] Validation
 [ ] Migrations
 [ ] Callbacks
 [ ] Default Values
