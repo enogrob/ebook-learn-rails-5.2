@@ -56,7 +56,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Deleting/Destroying a Record
 [x] Transactions
 [x] Scopes
-[~] Validation
+[x] Validation
 [ ] Migrations
 [ ] Callbacks
 [ ] Default Values
