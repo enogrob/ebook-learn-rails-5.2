@@ -57,7 +57,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Transactions
 [x] Scopes
 [x] Validation
-[ ] Migrations
+[~] Migrations
 [ ] Callbacks
 [ ] Default Values
 04. Scaffolding and REST
