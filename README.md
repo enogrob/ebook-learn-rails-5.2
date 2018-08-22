@@ -58,8 +58,8 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Scopes
 [x] Validation
 [x] Migrations
-[ ] Callbacks
-[ ] Default Values
+[x] Callbacks
+[x] Default Values
 04. Scaffolding and REST
 [ ] Redirects and Flash Messages
 [ ] Generating a Scaffold
