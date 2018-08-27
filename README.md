@@ -61,7 +61,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Callbacks
 [x] Default Values
 04. Scaffolding and REST
-[ ] Redirects and Flash Messages
+[~] Redirects and Flash Messages
 [ ] Generating a Scaffold
 [ ] When Should you use Scaffolding?
 05. Routes
