@@ -65,7 +65,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Generating a Scaffold
 [x] When Should you use Scaffolding?
 05. Routes
-[ ] HTTP GET Requests for Singular Resources
+[~] HTTP GET Requests for Singular Resources
 [ ] root:to => "welcome#index"
 [ ] resources
 [ ] Further Information on Routes
