@@ -83,7 +83,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Alternatives
 08. Cookies and Sessions
 [x] Cookies
-[ ] Sessions
+[x] Sessions
 09. Tests
 [ ] Example for a User in a Web Shop
 [ ] Fixtures
