@@ -86,7 +86,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Sessions
 09. Tests
 [x] Example for a User in a Web Shop
-[ ] Fixtures
+[x] Fixtures
 [ ] Integration Tests
 [ ] rails stats
 [ ] More on Testing
