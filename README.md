@@ -87,7 +87,7 @@ Learn everything you need to about the subject of this `eBook` project.
 09. Tests
 [x] Example for a User in a Web Shop
 [x] Fixtures
-[ ] Integration Tests
+[x] Integration Tests
 [ ] rails stats
 [ ] More on Testing
 10. Active Job
