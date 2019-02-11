@@ -88,8 +88,8 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Example for a User in a Web Shop
 [x] Fixtures
 [x] Integration Tests
-[ ] rails stats
-[ ] More on Testing
+[x] rails stats
+[x] More on Testing
 10. Active Job
 [ ] Create a New Job
 [ ] Set the Time for Future Execution
