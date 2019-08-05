@@ -92,7 +92,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] More on Testing
 10. Active Job
 [x] Create a New Job
-[ ] Set the Time for Future Execution
+[x] Set the Time for Future Execution
 [ ] Configure the Job Server Back End
 11. Action Mailer
 [ ] Configuring the E-mail Server
